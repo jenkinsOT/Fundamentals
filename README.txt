@@ -1,3 +1,1 @@
-Hello, Git
-Hello, again
-Updating readme with new information
+Sharing remotely here - trying to update on github
